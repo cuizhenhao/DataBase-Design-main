@@ -1,0 +1,3 @@
+# 项目排除路径
+/DataBase-Design-main/node_modules/
+/node_modules/
